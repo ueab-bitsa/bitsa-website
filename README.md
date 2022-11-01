@@ -1,14 +1,24 @@
-# Getting Started with Create React App
+# Getting Started with Building the Bitsa Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Contribution Guideliness
+Pick only small tasks and make sure other teams know what you are working on to avoid merge conflicts.
+## Technologies to be used
 
+--React
+
+if you want to create the site with a diffrent technology please contact the Github moderator so that other repos can be added
+## Make sure you have node installed in your PC for this to work
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
 
+This will install all the packages defined in the package.json
+
+## You can also use Yarn just make sure to change the commands accordingly
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the website in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -49,22 +59,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
