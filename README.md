@@ -6,7 +6,7 @@ Pick only small tasks and make sure other teams know what you are working on to 
 
 --React
 
-if you want to create the site with a diffrent technology please contact the Github moderator so that other repos can be added
+if you want to create the site with a different technology please contact the Github moderator so that other repos can be added
 ## Make sure you have node installed in your PC for this to work
 ## Available Scripts
 
